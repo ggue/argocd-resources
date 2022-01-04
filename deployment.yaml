@@ -16,6 +16,6 @@ spec:
         app: nginx-deploy
     spec:
       containers:
-      - image: nignx
-        name: nignx
+      - image: nginx
+        name: nginx
 status: {}
